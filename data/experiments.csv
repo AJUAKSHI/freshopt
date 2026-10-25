@@ -1,0 +1,2 @@
+timestamp,query,query_type,delta_limit,total_data_rows,changed_rows,selected_strategy,estimated_cost,execution_time_sec,actual_data_age_min,freshness_satisfied
+2026-09-13 08:59:42,SELECT SUM(amount) FROM sales;,AGGREGATION,5.0,100000,2000,INCREMENTAL REFRESH,0.045,0.12,2.5,True

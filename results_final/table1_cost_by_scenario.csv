@@ -1,0 +1,3 @@
+scenario,Always-Cache,Always-Full,Always-Incremental,FreshOpt
+large,0.0001,0.348,0.3045,0.1232
+small,0.0001,0.3519,0.2691,0.113

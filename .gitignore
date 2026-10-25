@@ -1,0 +1,7 @@
+__pycache__/
+*.bak
+main_old.py
+cache_store.json
+calibration.json
+results/
+paper_figures/
