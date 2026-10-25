@@ -56,7 +56,7 @@ Absolute times depend on the machine and vary between runs, so compare the
 policies within a run.
 
 ## Authors
-AKSHIH K
-KARTHIK S
-AMITH A
-AADITH J KRISHNA N
+AKSHIH K,
+KARTHIK S,
+AMITH A,
+AADITH J KRISHNA N.
